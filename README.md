@@ -1,7 +1,4 @@
-# RoboTasker
-
-Repository of Robot App requirements 
-
+ 
 # Interview Questions 
 
 ## Chili and Rice 
