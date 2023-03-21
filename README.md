@@ -1,4 +1,7 @@
+ # RoboTasker 5000: 
  
+## This robot is a programmable robot we're creating in order to support families with meal preparation. This robot has arms and wheels, so it is capable of doing many of the physical tasks that a human can do! The RoboTasker app can take in any number of basic user parameters to customize meals and provide efficency for the entire family. 
+
 # Interview Questions 
 
 ## Chili and Rice 
@@ -53,13 +56,13 @@
 9. How much carrots are we adding? 
 10. How are we cutting the vegetables? 
 
-# User Story Pages
+# User Story Page
 
 ## [User Story 1](UserStory1.md)
 
 # Prioritized List of Functional Requirements:
 
-## Sorting by user accessibility and application launch efficiency 
+## Sorted by User Accessibility and Application Launch Efficiency 
 
 1. I can click any of the pre-selected recipes on the app. This is the highest priority because directly addresses user needs quickly. 
 
