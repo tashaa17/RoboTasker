@@ -81,6 +81,7 @@
 5. The RT5000 should provide audio and visual feedback to the user during the task, such as progress updates or notifications when the task is complete. This requirement is important because users want to be updated along the way to ensure they are understanding the apps process while it is cooking. 
 
 6. The app can perform these updates quickly and retain the information for the future. This requirement is helpful for users to build a consistent schedule around the app and not have to re-input information during every use.
+
 7. The RT5000’s app should include a search/sort feature in order to find the pre-installed recipes. This feature is helpful in case certain users need more help locating and finding recipes sorted from least to most amount of time needed, in order to contribute to the efficiency of the RoboTasker. 
 
 8. The RT5000's app should allow users to pause and resume tasks as needed. This requirement is helpful for users in case something comes up and they need to pause or make any adjustments, so it is a moderately rated requirement. 
