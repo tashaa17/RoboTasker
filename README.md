@@ -52,3 +52,27 @@
 8. How much onions are we adding? 
 9. How much carrots are we adding? 
 10. How are we cutting the vegetables? 
+
+# Prioritized List of Functional Requirements:
+
+## Sorting by user accessibility and application launch efficiency 
+
+1. I can click any of the pre-selected recipes on the app. This is the highest priority because directly addresses user needs quickly. 
+
+2. I can click on a “create recipe” icon to begin cooking process right away. This requirement is very important as well because it saves the user time and eliminates user error or confusion. 
+
+3. The RT5000's app should allow users to input custom parameters for each recipe, such as cooking time or ingredient quantities. This is a high requirement because we want to consider every user’s unique needs and adaptability. 
+
+4. I can click on a timer icon and select my start time. This is an important requirement because we want to offer our users efficiency and save them time with the RoboTasker app, this way they can use the app according to their schedule. 
+
+5. The RT5000 should provide audio and visual feedback to the user during the task, such as progress updates or notifications when the task is complete. This requirement is important because users want to be updated along the way to ensure they are understanding the apps process while it is cooking. 
+
+6. The app can perform these updates quickly and retain the information for the future. This requirement is helpful for users to build a consistent schedule around the app and not have to re-input information during every use.
+7. The RT5000’s app should include a search/sort feature in order to find the pre-installed recipes. This feature is helpful in case certain users need more help locating and finding recipes sorted from least to most amount of time needed, in order to contribute to the efficiency of the RoboTasker. 
+
+8. The RT5000's app should allow users to pause and resume tasks as needed. This requirement is helpful for users in case something comes up and they need to pause or make any adjustments, so it is a moderately rated requirement. 
+
+9. The RT5000's app should allow users to queue up multiple recipes to be completed in a single session. This requirement can be helpful in order for users to get more than one meal going, it is moderately rated because its main purpose is efficiency in one recipe before starting more.  
+
+10. Add feature for profile picture, bio, and categorizing recipes with titles. This requirement is last on the priorities because it has more to do with the user’s profile customization and less to do with the app’s efficiency and accessibility to various users. 
+
