@@ -1,8 +1,9 @@
-![alt text](https://media.giphy.com/media/dRzZepFDs0BEs/giphy.gif)
  
  # RoboTasker 5000: 
  
 ## This robot is a programmable robot we're creating in order to support families with meal preparation. This robot has arms and wheels, so it is capable of doing many of the physical tasks that a human can do! The RoboTasker app can take in any number of basic user parameters to customize meals and provide efficency for the entire family. 
+
+![alt text](https://media.giphy.com/media/dRzZepFDs0BEs/giphy.gif)
 
 # Interview Questions 
 
