@@ -1,12 +1,15 @@
  
 
 # RoboTasker 5000: 
+___
  
 ## This robot is a programmable robot we're creating in order to support families with meal preparation. This robot has arms and wheels, so it is capable of doing many of the physical tasks that a human can do! The RoboTasker app can take in any number of basic user parameters to customize meals and provide efficency for the entire family. 
 
 ![alt text](https://media.giphy.com/media/dRzZepFDs0BEs/giphy.gif)
 
 # Interview Questions 
+
+___
 
 ## Chili and Rice 
 
@@ -60,9 +63,14 @@
 9. How much carrots are we adding? 
 10. How are we cutting the vegetables? 
 
+___
+
 # User Story Page
 
 ## [User Story 1](UserStory1.md)
+
+___
+
 
 # Prioritized List of Functional Requirements:
 
@@ -88,3 +96,16 @@
 
 10. Add feature for profile picture, bio, and categorizing recipes with titles. This requirement is last on the priorities because it has more to do with the user’s profile customization and less to do with the app’s efficiency and accessibility to various users. 
 
+___
+
+   # Content Credit 
+
+## Creators: 
+
+Natasha Singh 
+
+Helen Meles 
+
+## Trello Board 
+
+[User Stories](https://trello.com/b/uRGcnY6q/robot-tasker) 
