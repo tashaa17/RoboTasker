@@ -74,6 +74,8 @@ ___
 
 # Prioritized List of Functional Requirements:
 
+___
+
 ## Sorted by User Accessibility and Application Launch Efficiency 
 
 1. I can click any of the pre-selected recipes on the app. This is the highest priority because directly addresses user needs quickly. 
@@ -98,7 +100,7 @@ ___
 
 ___
 
-   # Content Credit 
+# Content Credit 
 
 ## Creators: 
 
