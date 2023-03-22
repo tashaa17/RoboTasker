@@ -67,7 +67,7 @@ ___
 
 # User Story Page
 
-## [User Story 1](UserStory1.md)
+## [User Stories](UserStory1.md)
 
 ___
 
