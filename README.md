@@ -5,7 +5,9 @@ ___
  
 ## This robot is a programmable robot we're creating in order to support families with meal preparation. This robot has arms and wheels, so it is capable of doing many of the physical tasks that a human can do! The RoboTasker app can take in any number of basic user parameters to customize meals and provide efficency for the entire family. 
 
-![alt text](https://media.giphy.com/media/dRzZepFDs0BEs/giphy.gif)
+___
+
+![alt text](https://raw.githubusercontent.com/tashaa17/RoboTasker/main/Screen%20Shot%202023-03-21%20at%208.45.18%20PM%20copy.jpg)
 
 # Interview Questions 
 
@@ -99,6 +101,8 @@ ___
 10. Add feature for profile picture, bio, and categorizing recipes with titles. This requirement is last on the priorities because it has more to do with the user’s profile customization and less to do with the app’s efficiency and accessibility to various users. 
 
 ___
+
+![alt text](https://media.giphy.com/media/dRzZepFDs0BEs/giphy.gif)
 
 # Content Credit 
 
